@@ -1,7 +1,7 @@
 # E-commerce-app
 
 ## Info 
-In this app the user will be able to get, add, update and delete the categories and tags of the products. You
+In this app the user will be able to get, add, update and delete the categories and tags of the products. 
 
 * It was developed with: 
 
